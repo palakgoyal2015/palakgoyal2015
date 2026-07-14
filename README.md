@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Palak+%F0%9F%91%8B;Full+Stack+Developer+Palak+%F0%9F%92%BB;Software+Engineer+%7C+Java+%2B+Spring+Boot;MERN+Stack+Enthusiast+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&repeat=true&lines=Hi%2C+I+am+Palak+Goyal+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=palakgoyal2015&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
